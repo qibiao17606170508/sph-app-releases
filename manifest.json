@@ -8,7 +8,7 @@
     "macos": "http://qiniu.iqibiao.cn/releases/sph-app-macos-v1.0.0.zip"
   },
   "sha256": {
-    "windows": "3008803cf9f67014a8e5aa065ce356469509a7f63d6836fc591098cc6900c128",
-    "macos": "42d5fb6a20068e6e59197bdf124f90293bb4728b493e33fb895e52e465f842b5"
+    "windows": "82cb70cba813cad40bc8ebe55919b7b89010185d1df6440c3bda0bf3aae8124d",
+    "macos": "b86275ce0c547cfbbc4e30694b459cdb90d02cdb50d0aca8b2c3e0b172513efe"
   }
 }
