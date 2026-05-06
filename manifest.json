@@ -1,14 +1,14 @@
 {
-  "latest_version": "1.0.12",
+  "latest_version": "1.0.13",
   "min_supported_version": "1.0.0",
   "force": false,
-  "notes": "版本 v1.0.12 发布。更新包含性能优化和稳定性提升。",
+  "notes": "版本 v1.0.13 发布。更新包含性能优化和稳定性提升。",
   "downloads": {
-    "windows": "https://github.com/qibiao17606170508/sph-app-releases/releases/download/v1.0.12/sph-app-windows-v1.0.12.zip",
-    "macos": "https://github.com/qibiao17606170508/sph-app-releases/releases/download/v1.0.12/sph-app-macos-v1.0.12.zip"
+    "windows": "https://github.com/qibiao17606170508/sph-app-releases/releases/download/v1.0.13/sph-app-windows-v1.0.13.zip",
+    "macos": "https://github.com/qibiao17606170508/sph-app-releases/releases/download/v1.0.13/sph-app-macos-v1.0.13.zip"
   },
   "sha256": {
-    "windows": "77c47a8943859d60f61ec439317eeea94497a17e84ba51434910f6ec1b836be3",
-    "macos": "2614cd931026f65a343d30a9ea871faac8ddef1734b96dedcb0fba920030ee32"
+    "windows": "a6090d009f0df63871c1b08de5db676e79a696450fd837fa584b2b33077320ab",
+    "macos": "05754ae3d9dce9fb7c544809cf910bef81017ed2de4c1d8c13bb6dca37e081c6"
   }
 }
