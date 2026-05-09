@@ -1,14 +1,14 @@
 {
-  "latest_version": "1.2.20",
+  "latest_version": "1.2.21",
   "min_supported_version": "1.0.0",
   "force": false,
-  "notes": "版本 v1.2.20 发布。更新包含性能优化和稳定性提升。",
+  "notes": "版本 v1.2.21 发布。更新包含性能优化和稳定性提升。",
   "downloads": {
-    "windows": "http://qiniu.iqibiao.cn/releases/sph-app-windows-v1.2.20.zip",
-    "macos": "http://qiniu.iqibiao.cn/releases/sph-app-macos-v1.2.20.zip"
+    "windows": "http://qiniu.iqibiao.cn/releases/sph-app-windows-v1.2.21.zip",
+    "macos": "http://qiniu.iqibiao.cn/releases/sph-app-macos-v1.2.21.zip"
   },
   "sha256": {
-    "windows": "4bbfdcbd5b4f09eb4dac62b110686e35681c99b00a8b77cc0101cec07ff20c9b",
-    "macos": "3c536156043e11a164e3bf6c857f5233eb28f3990cc3a8fc9576db9d86bcc4fb"
+    "windows": "6e89c09dbfebabe39a5a7e85e2f7d203651a8fec4e92498abd9ff5867600f935",
+    "macos": "6376918803589bb9df3ec4c4c312a772f70cf8ab964eeaa4250f13100269348a"
   }
 }
